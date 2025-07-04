@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507919328065",
+    "project_id": "irongate-4c213",
+    "storage_bucket": "irongate-4c213.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507919328065:android:25e2c5b89e68d83eb9b7c0",
+        "android_client_info": {
+          "package_name": "com.example.irongate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OZZXySih4QKrrGqRmeSvlutTvLYCCyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

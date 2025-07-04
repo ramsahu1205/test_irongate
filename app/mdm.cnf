@@ -1,0 +1,19 @@
+[ req ]
+default_bits       = 2048
+prompt             = no
+default_md         = sha1
+x509_extensions    = v3_ca
+distinguished_name = dn
+
+[ dn ]
+C  = US
+ST = California
+L  = Mountain View
+O  = Google Inc
+OU = Android
+CN = testdpc
+
+[ v3_ca ]
+subjectKeyIdentifier = hash
+authorityKeyIdentifier = keyid
+basicConstraints = CA:true
